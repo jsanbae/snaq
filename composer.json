@@ -1,0 +1,32 @@
+{
+	"name": "jsan/snaq",
+    "description": "Sistema para gestion de restorantes de comida rapida",
+    "version": "0.1.0",
+    "type": "api",
+    "keywords": ["restorant", "comida rapida", "gestion"],
+    "homepage": "http://www.snaq.cl",
+    "time": "2015-05-22",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Javier Sanchez",
+            "email": "jsan709@hotmail.com",
+            "role": "Fullstack Developer"
+        }
+    ],
+    
+    "support": {
+        "email": "support@snaq.cl"
+    },
+
+    "config": {
+        "vendor-dir": "lib"
+    },
+    
+    "require" :{
+        "slim/slim": "3.*"
+    },
+
+    "require-dev": {
+    }
+}

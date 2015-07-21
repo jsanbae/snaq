@@ -1,0 +1,4 @@
+<?
+class Cajero implements ITrabajador {
+	
+}
