@@ -8,7 +8,7 @@ function __autoload($class) {
 	$root = dirname(dirname(__FILE__));
 
 	// Define path to application directory
-	defined('APPLICATION_PATH') || define('APPLICATION_PATH', $root . '/src');
+	defined('APPLICATION_PATH') || define('APPLICATION_PATH', $root . '/../src');
 
 	//echo APPLICATION_PATH;
 
